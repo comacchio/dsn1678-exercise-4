@@ -57,7 +57,7 @@ section {
 
 .js-shuttle-fade{
     /*don't forget the other prefixes*/
-    -webkit-animation: shuttle-fade 1s linear forwards;
+    -webkit-animation: shuttle-fade 300ms linear forwards;
     /*
         animation-fill mode:forward;
         Will tell the animation to stay at its end state after complete
